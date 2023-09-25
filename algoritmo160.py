@@ -4,6 +4,6 @@ def prog_se71():
         else 2.0 if x <= 2.0 \
             else x**2.0 if x <= 3.0 \
                 else x**3.0
-    print("\nvalor de f(x): {y}")
+    print(f"\nvalor de f(x): {y}")
     print("\n")
 prog_se71()
